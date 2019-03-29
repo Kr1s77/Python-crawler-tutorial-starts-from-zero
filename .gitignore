@@ -1,0 +1,20 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+# Mac os
+.DS_Store 
+*/.DS_Store 
+
+# pycharm
+.idea
+.env
+
