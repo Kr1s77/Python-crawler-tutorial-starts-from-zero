@@ -10,4 +10,4 @@
 
 - [01- 爬虫预备知识](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E7%88%AC%E8%99%AB%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
 
-#### 喜欢可以给个star🌟，均为免费内容,``转载``请``注明来源``
+#### 喜欢可以给个star🌟，均为免费内容
