@@ -6,8 +6,9 @@
 
 # 目录
 
-- [01- 爬虫预备知识](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E7%88%AC%E8%99%AB%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
+- [01 - 爬虫预备知识](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E7%88%AC%E8%99%AB%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
 - [02- 请求分析流程](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E8%AF%B7%E6%B1%82%E5%88%86%E6%9E%90.md)
+- [03 - requests模块的使用]()
 
 
 # 文献整理
@@ -19,3 +20,6 @@
 ## Chrome控制台
 [官方教程](https://developers.google.com/web/tools/chrome-devtools/console/?hl=zh-cn)
 [来自知乎](https://zhuanlan.zhihu.com/p/39340856)
+
+## Requests使用
+[官方中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
