@@ -28,3 +28,9 @@
 
 ## Requests使用
 [官方中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
+
+## JSON
+[菜鸟教程](http://www.runoob.com/json/json-tutorial.html)
+
+## XML
+[菜鸟教程](http://www.runoob.com/xml/xml-tutorial.html)
