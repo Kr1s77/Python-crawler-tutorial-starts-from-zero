@@ -17,6 +17,7 @@
 # 实例目录
 - [01 - 豆瓣热门爬虫-入门](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/01-%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1.md)
 - [02 - 百度贴吧爬虫-入门](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/02-%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7.md)
+- [03 - 百度翻译爬虫-逆向](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/03-%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91.md)
 
 # 文献整理
 ## http知识
